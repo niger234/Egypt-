@@ -1,0 +1,37 @@
+body{
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: grey;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+a{
+    color: slateblue;
+}
+
+nav ul{
+    background-color: rgb(226, 153, 43);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 30px;
+    padding: 10px;
+    border-color: wheat;
+
+}
+
+nav ul li{
+    list-style-type:none ;
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: aquamarine;
+}
